@@ -1,7 +1,5 @@
 # Mist
 
-> Warning - Mist is currently **UNTESTED**, proceed at your own risk!
-
 Mist is a one-handed symmetrical and columnar keyboard, with mirrored thumb keys providing 17 usable keys for either hand. It is ideal for anyone needing to type with one hand, or those wanting a staggered one-handed macro pad that can be used with either hand.
 
 The name comes from its primary design goals: **MI**rrored, **ST**aggered.
